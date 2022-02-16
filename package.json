@@ -6,6 +6,10 @@
 	"engines": {
 		"vscode": "^1.63.0"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/GuoHu-forever/ExFindInAllFiles.git"
+	  },
 	"categories": [
 		"Other"
 	],
