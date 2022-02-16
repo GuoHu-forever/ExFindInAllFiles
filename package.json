@@ -3,6 +3,7 @@
 	"displayName": "ExFindInAllFiles",
 	"description": "extend the FindInAllFiles",
 	"version": "0.0.1",
+	"publisher": "guohu",
 	"engines": {
 		"vscode": "^1.63.0"
 	},
